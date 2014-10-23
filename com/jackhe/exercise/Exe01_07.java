@@ -1,3 +1,4 @@
+package com.jackhe.exercise;
 /**
 (1) Turn the Incrementable code fragments into a working program.
 

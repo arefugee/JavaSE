@@ -1,9 +1,11 @@
+package com.jackhe.exercise;
 /**
-Exercise 1: (2) Create a class containing an int and a char that are not initialized, and print their values to verify that Java performs default initialization.
-
-@Date 2014/10/23
-@Author:JackHe
+*Exercise 1: (2) Create a class containing an int and a char that are not initialized, and print their values to verify that Java performs default initialization.
+*
+*@Date 2014/10/23
+*@Author:JackHe
 */
+
 
 class Test{
 	private int i;

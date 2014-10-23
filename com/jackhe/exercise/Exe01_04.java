@@ -1,4 +1,6 @@
+package com.jackhe.exercise;
 /**
+*
 (1) Turn the DataOnly code fragments into a program that compiles and runs.
 
 @Date:2014/10/23

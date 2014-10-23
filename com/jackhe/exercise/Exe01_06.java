@@ -1,3 +1,4 @@
+package com.jackhe.exercise;
 /**
 Exercise 6: (2) Write a program that includes and calls the storage( ) method defined as a code fragment in this chapter.
 

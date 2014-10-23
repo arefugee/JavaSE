@@ -1,3 +1,4 @@
+package com.jackhe.exercise;
 /**
 Exercise 3: (1) Find the code fragments involving ATypeName and turn them into a program that compiles and runs.
 
