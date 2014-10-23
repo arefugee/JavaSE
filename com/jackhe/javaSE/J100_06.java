@@ -1,3 +1,4 @@
+package com.jackhe.javaSE;
 /**
 应用FileInputStream类，编写应用程序，从磁盘上读取一个Java程序，并将源程序代码显示在屏幕上。
 

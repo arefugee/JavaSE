@@ -1,3 +1,4 @@
+package com.jackhe.javaSE;
 /**
 
 calculate the sum of 1!+2!+..+10!

@@ -1,3 +1,4 @@
+package com.jackhe.javaSE;
 /**
 
 To test the accessibility of fileds during inheritance.
