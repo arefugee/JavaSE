@@ -3,7 +3,7 @@ package com.jackhe.javaSE
 Date:2014/10/16
 Author:JackHe
 ):
-Hava gone through all the darkness, Jack is now usher in a brand new age !
+Have gone through all the darkness, Jack is now ushering in a brand new age !
 */
 public class HelloWorld{
 
