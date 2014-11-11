@@ -1,16 +1,16 @@
 package com.jackhe.util;
 
 /**
-*Exercise 2: (1) Take the code fragments in this section and turn them into a program, and verify that collisions do in fact occur.
+*This class was built to show the class name collision
 
 *@Date:2014/11/07
 *@Author:JackHe
 
 */
 
-class Vector{
+class Hello{
 	
 	public void say(
-		System.out.println("I am a Vector from com.jackhe.exercise");
+		System.out.println("I am a Hello from com.jackhe.exercise");
 	}
 }
